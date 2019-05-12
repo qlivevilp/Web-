@@ -22,7 +22,7 @@ div{
 
     width:1600px;/*宽度为1600像素*/
     height:20px;/*高度为20像素*/
-    background:#ffffff;:/*背景为白色*/
+    background:#ffffff;/*背景为白色*/
     top:290px;/*绝对定位，距父元素上边线290像素*/
     left:-400px;/*绝对定位，距父元素左边线400像素*/
 }
@@ -72,7 +72,7 @@ div{
 }
 .l_shield1,.l_shield2,.l_shield3,.l_shield4{
 
-      background:#ee6812;
+     background:#ee6812;
 }
 .l_shield1{
 
@@ -92,7 +92,8 @@ div{
 }
   .gray1,.gray2,.gray3,.gray4
 {
-      background:#ebebeb;}
+      background:#ebebeb;
+  }
 
       /*给gray1设置宽高和绝对定位*/
 .gray1{
