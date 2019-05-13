@@ -63,7 +63,7 @@ h1 {
     border-radius: 50%; /*为元素添加圆角边框 ,边框半径为宽度的50%*/
     overflow: hidden;
 }
-.plcRoutelist.bottom .face.img {
+.plcRouteList.bottom .face.img {
     display: block;
     border-radius: 50%;
 }
